@@ -5,7 +5,7 @@ Let's Move 一项学Move获得SUI的激励计划，鼓励更多的人学习Move�
 - 复制 `mover` 目录下的 `001` 并且用自己的 `github id` 命名复制的目录
 - 在 `readme.md` 里面填写个人信息 后面的任务模板暂时不管
 - 提交PR
-- 必须加入社区群发出PR 才会被合并
+- 必须加入社区群发出PR 才会被合并 test
 
 ## 社区 & 问答
 - [move中文 TG](https://t.me/move_cn)
